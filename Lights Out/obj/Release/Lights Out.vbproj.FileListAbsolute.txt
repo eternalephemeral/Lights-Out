@@ -1,0 +1,14 @@
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\bin\Release\Lights Out.exe.config
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\bin\Release\Lights Out.exe
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\bin\Release\Lights Out.pdb
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\bin\Release\Lights Out.xml
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\WindowsApplication1.LevelFinishedform.resources
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\WindowsApplication1.Main.resources
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\WindowsApplication1.SelectLevelform.resources
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\Lights Out.vbproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\Lights Out.exe
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\Lights Out.xml
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\Lights Out.pdb
+C:\Users\Patrick\Documents\Visual Studio 2008\Projects\Lights Out\Lights Out\obj\Release\WindowsApplication1.Instructionsform.resources
